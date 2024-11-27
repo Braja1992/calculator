@@ -4,7 +4,7 @@ class Calculator:
     	return a + b
     
     def subtraction(self, a, b):
-        pass
+        return a - b
         
     def division(self, a, b):
     	if b == 0:
