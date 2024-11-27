@@ -1,7 +1,7 @@
 # calculator.py
 class Calculator:
     def addition(self, a, b):
-        pass
+    	return a + b
     
     def subtraction(self, a, b):
         pass
