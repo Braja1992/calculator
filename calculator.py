@@ -10,4 +10,4 @@ class Calculator:
         pass
         
     def multiplication(self, a, b):
-        pass
+   	 return a * b
